@@ -1,11 +1,11 @@
-# 💰 Budget Quest (MoneyMoves)
+# MoneyMoves
 > An interactive financial literacy web app for teens and young adults — built with zero dependencies.
 
 ---
 
 ## Overview
 
-Budget Quest is a standalone educational web application that teaches personal finance through hands-on tools and scenario-based gameplay. Users can plan a real budget, track debts, set savings goals, read financial lessons, and play a decision-making game — all in one file, no installation required.
+Money Moves is a standalone educational web application that teaches personal finance through tools and scenario based gameplay. Users can plan a real budget, track debts, set savings goals, read financial lessons, and play a decision making game, all in one file, no installation required.
 
 An AI financial coach (Coach Quinn) powered by Groq's Llama 3.3 70B is embedded in the app and gives personalized advice based on the user's actual data.
 
@@ -19,7 +19,7 @@ An AI financial coach (Coach Quinn) powered by Groq's Llama 3.3 70B is embedded 
 | **Budget Planner** | Enter income, categorize expenses (Needs/Wants/Save), live donut chart, 50/30/20 rule checker |
 | **Debt Tracker** | Add debts with APR, payoff timeline calculator, extra payment slider, Avalanche vs Snowball strategy comparison |
 | **Savings Goals** | Named goals with progress bars, milestone dots, and projected completion dates |
-| **Learn** | 5 lessons, 16-term searchable glossary, 6 key financial formulas with examples |
+| **Learn** | 5 lessons, 16 term searchable glossary, 6 key financial formulas with examples |
 | **Game** | 4 personas, 8 financial scenarios, XP system, letter grade results |
 | **AI Coach (Quinn)** | Floating chat assistant that reads your live data and gives personalized advice |
 | **Light / Dark Mode** | Full theme toggle with saved preference |
@@ -137,7 +137,7 @@ To host on the web, drag the `budget-quest-app/` folder onto [netlify.com/drop](
 
 | Dashboard | Budget Planner | Game |
 |---|---|---|
-| Financial health score + quick actions | Live donut chart + 50/30/20 checker | Scenario-based decisions + XP |
+| Financial health score + quick actions | Live donut chart + 50/30/20 checker | Scenario based decisions + XP |
 
 ---
 
