@@ -1,5 +1,5 @@
 # MoneyMoves
-> An interactive financial literacy web app for teens and young adults — built with zero dependencies.
+> An interactive financial literacy web app for teens and young adults, built with zero dependencies.
 
 <img width="1435" height="762" alt="Screenshot 2026-04-08 at 1 58 11 PM" src="https://github.com/user-attachments/assets/1acab6c2-aea6-4bd6-89ce-f6b81d2a133b" />
 
